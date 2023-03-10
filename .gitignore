@@ -1,0 +1,3 @@
+# ignore the UrbanSound8K dataset
+
+data/UrbanSound8K/
